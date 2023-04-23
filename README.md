@@ -9,7 +9,7 @@ Databases:
 Metric 1:
 
 Metric 2:
-Trafic Count - https://data.wprdc.org/dataset/allegheny-county-traffic-counts
+Trafic Count - https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
 
 Metric 3: 
 Wifi Locations - https://data.wprdc.org/dataset/public-wifi-locations
