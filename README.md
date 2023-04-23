@@ -1,4 +1,4 @@
-Team Name: Team 2
+Team Name: Operation Pigeon - Team 2
 
 Members: 
 Balazs Kudelasz - Bak97@pitt.edu
